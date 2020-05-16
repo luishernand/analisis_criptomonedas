@@ -1,5 +1,5 @@
 
-<img src="https://github.com/luishernand/pandas_fundamentals/blob/master/logo4.JPG?raw=true" height = 125 width= 150 alt=" ">  
+<img src="https://github.com/luishernand/pandas_fundamentals/blob/master/logo4.JPG?raw=true" height = 125 width= 125 alt=" ">  
 
 # Análisis de Criptomonedas  
 Aqui veras  los procesos para realizar una serie de tiempo   
