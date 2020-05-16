@@ -1,7 +1,7 @@
 
 <img src="https://github.com/luishernand/pandas_fundamentals/blob/master/logo4.JPG?raw=true" height = 150 width= 150 alt=" ">  
 
-# analisis_criptomonedas  
+# Análisis de Criptomonedas  
 Aqui veras  los procesos para realizar una serie de tiempo   
 1. Análisis  de tiempo de las criptomnedas  
 1. Predicción del precio de cierre del Bitcoin
