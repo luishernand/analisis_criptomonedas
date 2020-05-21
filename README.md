@@ -1,5 +1,5 @@
 
-<img src="https://github.com/luishernand/pandas_fundamentals/blob/master/logo4.JPG?raw=true" height = 125 width= 135 alt=" ">  
+<img src="https://github.com/luishernand/pandas_fundamentals/blob/master/logo4.JPG?raw=true" height = 150 width= 150 alt=" ">  
 
 # Análisis de Criptomonedas  
 Aqui veras  análisis, predicciones y pronósticos de las criptomonedas utilizando varias técnicas entre ellas **fbprophet**.   
@@ -12,4 +12,4 @@ Aqui veras  análisis, predicciones y pronósticos de las criptomonedas utilizan
 - [Análisis de criptomonedas](https://nbviewer.jupyter.org/github/luishernand/analisis_criptomonedas/blob/master/analisis%20crypto.ipynb)  
 - [Predección criptomonedas](https://nbviewer.jupyter.org/github/luishernand/analisis_criptomonedas/blob/master/Predecir_precio_crypto_monedas.ipynb)
 
--[Pronosticos con fbprophet](https://nbviewer.jupyter.org/github/luishernand/analisis_criptomonedas/blob/master/pronostico_criptomonedas.ipynb)
+- [Pronosticos con fbprophet](https://nbviewer.jupyter.org/github/luishernand/analisis_criptomonedas/blob/master/pronostico_criptomonedas.ipynb)
