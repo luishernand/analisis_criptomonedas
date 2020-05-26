@@ -17,4 +17,4 @@ Aqui veras  análisis, predicciones y pronósticos de las criptomonedas utilizan
 
 - [Pronosticos con fbprophet](https://nbviewer.jupyter.org/github/luishernand/analisis_criptomonedas/blob/master/pronostico_criptomonedas.ipynb)
 
--[optimizadpr de carteras](https://nbviewer.jupyter.org/github/luishernand/analisis_criptomonedas/blob/master/optimizador_carteras_criptomonedas.ipynb)
+- [optimizadpr de carteras](https://nbviewer.jupyter.org/github/luishernand/analisis_criptomonedas/blob/master/optimizador_carteras_criptomonedas.ipynb)
