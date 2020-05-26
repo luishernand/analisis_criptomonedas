@@ -4,7 +4,7 @@
 ---  
 
 # Análisis de Criptomonedas  
-Aqui veras  análisis, predicciones y pronósticos de las criptomonedas utilizando varias técnicas entre ellas **fbprophet**.   
+Aqui veras  análisis, predicciones, optimizador de la cartera(volividad/riesgo, correlación) y pronósticos de las criptomonedas utilizando varias técnicas entre ellas **fbprophet**.   
 1. Análisis  de tiempo de las criptomnedas  
 1. Predicción del precio de cierre del Bitcoin
 1. Pronóstico de criptomonedas con fbprophet
