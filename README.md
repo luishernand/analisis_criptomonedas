@@ -8,6 +8,7 @@ Aqui veras  análisis, predicciones y pronósticos de las criptomonedas utilizan
 1. Análisis  de tiempo de las criptomnedas  
 1. Predicción del precio de cierre del Bitcoin
 1. Pronóstico de criptomonedas con fbprophet
+1. Optimizador de carteras para criptomonedas
 
 
 ## Jupyher Notebook
@@ -15,3 +16,5 @@ Aqui veras  análisis, predicciones y pronósticos de las criptomonedas utilizan
 - [Predección criptomonedas](https://nbviewer.jupyter.org/github/luishernand/analisis_criptomonedas/blob/master/Predecir_precio_crypto_monedas.ipynb)
 
 - [Pronosticos con fbprophet](https://nbviewer.jupyter.org/github/luishernand/analisis_criptomonedas/blob/master/pronostico_criptomonedas.ipynb)
+
+-[optimizadpr de carteras](https://nbviewer.jupyter.org/github/luishernand/analisis_criptomonedas/blob/master/optimizador_carteras_criptomonedas.ipynb)
